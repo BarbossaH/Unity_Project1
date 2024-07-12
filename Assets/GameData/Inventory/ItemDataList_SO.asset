@@ -1,0 +1,268 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f7a291e560e045b089f3ddb3df6d020, type: 3}
+  m_Name: ItemDataList_SO
+  m_EditorClassIdentifier: 
+  itemDetailsList:
+  - itemID: 10000
+    itemName: Axe
+    itemType: 4
+    description: 
+    itemIconInUI: {fileID: 21300000, guid: 3714c3e6b5e3d498ebcd06d432b3dd89, type: 3}
+    itemIconInWorld: {fileID: 21300000, guid: 3714c3e6b5e3d498ebcd06d432b3dd89, type: 3}
+    itemUsedRadius: 1
+    canPickedUp: 1
+    canDropped: 1
+    canCarried: 1
+    itemPrice: 0
+    soldPercentage: 0
+  - itemID: 10001
+    itemName: Hoe
+    itemType: 3
+    description: 
+    itemIconInUI: {fileID: 21300000, guid: 71ca9227166f34790bb8b1c7948d491f, type: 3}
+    itemIconInWorld: {fileID: 21300000, guid: 71ca9227166f34790bb8b1c7948d491f, type: 3}
+    itemUsedRadius: 1
+    canPickedUp: 1
+    canDropped: 1
+    canCarried: 1
+    itemPrice: 0
+    soldPercentage: 0
+  - itemID: 10002
+    itemName: Pickaxe
+    itemType: 5
+    description: 
+    itemIconInUI: {fileID: 21300000, guid: ab9788b07a759404293670018c76ec0f, type: 3}
+    itemIconInWorld: {fileID: 21300000, guid: ab9788b07a759404293670018c76ec0f, type: 3}
+    itemUsedRadius: 1
+    canPickedUp: 1
+    canDropped: 1
+    canCarried: 1
+    itemPrice: 0
+    soldPercentage: 0
+  - itemID: 10003
+    itemName: Wood
+    itemType: 1
+    description: This is woodThis is woodThis is woodThis is woodThis is woodThis
+      is woodThis is woodThis is woodThis is woodThis is wood
+    itemIconInUI: {fileID: 21300000, guid: 5809980803ddf45a1aa8df14dbc00394, type: 3}
+    itemIconInWorld: {fileID: 21300000, guid: 0d5f887d0ba144b7180f3e33336beac5, type: 3}
+    itemUsedRadius: 2
+    canPickedUp: 1
+    canDropped: 1
+    canCarried: 1
+    itemPrice: 20
+    soldPercentage: 0.5
+  - itemID: 10004
+    itemName: Potato Seed
+    itemType: 0
+    description: Potato Seed
+    itemIconInUI: {fileID: 21300000, guid: f140b8cf7b2cb44c5bf34bb9bb3292f4, type: 3}
+    itemIconInWorld: {fileID: 21300000, guid: f140b8cf7b2cb44c5bf34bb9bb3292f4, type: 3}
+    itemUsedRadius: 0
+    canPickedUp: 1
+    canDropped: 0
+    canCarried: 0
+    itemPrice: 0
+    soldPercentage: 0
+  - itemID: 10005
+    itemName: New One
+    itemType: 7
+    description: 
+    itemIconInUI: {fileID: 21300000, guid: 5b98b5b289f8549f9bbd017e5f0aa5c7, type: 3}
+    itemIconInWorld: {fileID: 21300000, guid: 5b98b5b289f8549f9bbd017e5f0aa5c7, type: 3}
+    itemUsedRadius: 1
+    canPickedUp: 1
+    canDropped: 0
+    canCarried: 1
+    itemPrice: 1
+    soldPercentage: 0
+  - itemID: 10006
+    itemName: Basket
+    itemType: 8
+    description: 
+    itemIconInUI: {fileID: 21300000, guid: 21f88cda6c810402583055801e6a2c73, type: 3}
+    itemIconInWorld: {fileID: 21300000, guid: 21f88cda6c810402583055801e6a2c73, type: 3}
+    itemUsedRadius: 2
+    canPickedUp: 1
+    canDropped: 0
+    canCarried: 1
+    itemPrice: 0
+    soldPercentage: 0
+  - itemID: 10007
+    itemName: Potato
+    itemType: 1
+    description: 
+    itemIconInUI: {fileID: 21300000, guid: 59a2ce6cc735e4cd3a3da1bad8629303, type: 3}
+    itemIconInWorld: {fileID: 21300000, guid: 59a2ce6cc735e4cd3a3da1bad8629303, type: 3}
+    itemUsedRadius: 1
+    canPickedUp: 1
+    canDropped: 1
+    canCarried: 1
+    itemPrice: 0
+    soldPercentage: 0
+  - itemID: 10008
+    itemName: Grape Seed
+    itemType: 0
+    description: grape seed
+    itemIconInUI: {fileID: 21300000, guid: 13fd782ac3661413abe57fc16343e499, type: 3}
+    itemIconInWorld: {fileID: 21300000, guid: 13fd782ac3661413abe57fc16343e499, type: 3}
+    itemUsedRadius: 2
+    canPickedUp: 1
+    canDropped: 1
+    canCarried: 1
+    itemPrice: 100
+    soldPercentage: 0.5
+  - itemID: 10009
+    itemName: Turnip
+    itemType: 0
+    description: Turnip
+    itemIconInUI: {fileID: 21300000, guid: 0689ebc0f067f41fa98586e5b574896f, type: 3}
+    itemIconInWorld: {fileID: 21300000, guid: 0689ebc0f067f41fa98586e5b574896f, type: 3}
+    itemUsedRadius: 2
+    canPickedUp: 1
+    canDropped: 1
+    canCarried: 1
+    itemPrice: 100
+    soldPercentage: 0
+  - itemID: 10010
+    itemName: Grape
+    itemType: 1
+    description: 123
+    itemIconInUI: {fileID: 21300000, guid: 55a5bd44420c244b6af7e049703c8f2a, type: 3}
+    itemIconInWorld: {fileID: 21300000, guid: 55a5bd44420c244b6af7e049703c8f2a, type: 3}
+    itemUsedRadius: 2
+    canPickedUp: 1
+    canDropped: 1
+    canCarried: 1
+    itemPrice: 111
+    soldPercentage: 0
+  - itemID: 10011
+    itemName: "\u677E\u5B50"
+    itemType: 0
+    description: Needie
+    itemIconInUI: {fileID: 21300000, guid: 9930d861d3ccf4ddc87536ae85a56425, type: 3}
+    itemIconInWorld: {fileID: 21300000, guid: 9930d861d3ccf4ddc87536ae85a56425, type: 3}
+    itemUsedRadius: 2
+    canPickedUp: 1
+    canDropped: 1
+    canCarried: 1
+    itemPrice: 10
+    soldPercentage: 0.5
+  - itemID: 10012
+    itemName: "\u6811\u6839"
+    itemType: 9
+    description: tree trunk
+    itemIconInUI: {fileID: 21300000, guid: f92caccf9fb8e45bcb3b3b1116dcbf48, type: 3}
+    itemIconInWorld: {fileID: 21300000, guid: f92caccf9fb8e45bcb3b3b1116dcbf48, type: 3}
+    itemUsedRadius: 2
+    canPickedUp: 0
+    canDropped: 0
+    canCarried: 0
+    itemPrice: 0
+    soldPercentage: 0
+  - itemID: 10013
+    itemName: Tree Seed2
+    itemType: 0
+    description: icon
+    itemIconInUI: {fileID: 21300000, guid: 1ae82374d0e4445118e47ce07e8426fe, type: 3}
+    itemIconInWorld: {fileID: 21300000, guid: 1ae82374d0e4445118e47ce07e8426fe, type: 3}
+    itemUsedRadius: 2
+    canPickedUp: 1
+    canDropped: 0
+    canCarried: 0
+    itemPrice: 0
+    soldPercentage: 0
+  - itemID: 10014
+    itemName: Trunk 2
+    itemType: 9
+    description: Trunk 2
+    itemIconInUI: {fileID: 21300000, guid: 774ad8d2636c5457e81a95a3e1f2352d, type: 3}
+    itemIconInWorld: {fileID: 21300000, guid: ab3861d4b685d4d048cd7cd1c18e9574, type: 3}
+    itemUsedRadius: 2
+    canPickedUp: 0
+    canDropped: 0
+    canCarried: 0
+    itemPrice: 0
+    soldPercentage: 0
+  - itemID: 10015
+    itemName: Rock01
+    itemType: 9
+    description: rock
+    itemIconInUI: {fileID: 21300000, guid: b40fde803efab463bbc950e4d29ee5ce, type: 3}
+    itemIconInWorld: {fileID: 21300000, guid: b40fde803efab463bbc950e4d29ee5ce, type: 3}
+    itemUsedRadius: 2
+    canPickedUp: 0
+    canDropped: 0
+    canCarried: 0
+    itemPrice: 0
+    soldPercentage: 0
+  - itemID: 10016
+    itemName: Rock02
+    itemType: 9
+    description: rock2
+    itemIconInUI: {fileID: 21300000, guid: 51532cbb9bf104839b6330f0a739b933, type: 3}
+    itemIconInWorld: {fileID: 21300000, guid: 51532cbb9bf104839b6330f0a739b933, type: 3}
+    itemUsedRadius: 2
+    canPickedUp: 0
+    canDropped: 0
+    canCarried: 0
+    itemPrice: 0
+    soldPercentage: 0
+  - itemID: 10017
+    itemName: Rock
+    itemType: 1
+    description: rock
+    itemIconInUI: {fileID: 21300000, guid: 45a3ea64377134f4299e757a1becb6df, type: 3}
+    itemIconInWorld: {fileID: 21300000, guid: 45a3ea64377134f4299e757a1becb6df, type: 3}
+    itemUsedRadius: 2
+    canPickedUp: 1
+    canDropped: 1
+    canCarried: 1
+    itemPrice: 2
+    soldPercentage: 1
+  - itemID: 10018
+    itemName: Grass
+    itemType: 0
+    description: grass
+    itemIconInUI: {fileID: 21300000, guid: 9ae5a331348064d73aa91a952b9e1a41, type: 3}
+    itemIconInWorld: {fileID: 21300000, guid: 9ae5a331348064d73aa91a952b9e1a41, type: 3}
+    itemUsedRadius: 2
+    canPickedUp: 0
+    canDropped: 0
+    canCarried: 0
+    itemPrice: 0
+    soldPercentage: 0
+  - itemID: 10019
+    itemName: New One
+    itemType: 0
+    description: 
+    itemIconInUI: {fileID: 0}
+    itemIconInWorld: {fileID: 0}
+    itemUsedRadius: 0
+    canPickedUp: 0
+    canDropped: 0
+    canCarried: 0
+    itemPrice: 0
+    soldPercentage: 0
+  - itemID: 10020
+    itemName: New One
+    itemType: 0
+    description: 
+    itemIconInUI: {fileID: 0}
+    itemIconInWorld: {fileID: 0}
+    itemUsedRadius: 0
+    canPickedUp: 0
+    canDropped: 0
+    canCarried: 0
+    itemPrice: 0
+    soldPercentage: 0

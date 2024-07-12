@@ -1,0 +1,74 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Asset meta data should only be included if the corresponding asset is also included
+*.pidb.meta
+*.pidb
+*.booproj
+*.svd
+
+# User specific files
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+*.exe
+*.dll
+*.mdb
+*.exe.mdb
+*.pdb
+
+# Visual Studio cache directory
+.vscode/
+.vscode/*
+.vscode/extensions.json
+.vscode/launch.json
+.vscode/settings.json
+
+# Rider
+.idea/
+.idea/*
+.idea/assetWizardSettings.xml
+.idea/codeStyles/
+.idea/dictionaries/
+.idea/editorProviders.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/runConfigurations/
+.idea/workspace.xml
+.idea/.gitignore
+
+# Temporary files
+*.swp
+*.swpx
+*.tmp
+*.temp
+
+# Packages
+Packages/manifest.json
+Packages/packages-lock.json
+
+# JetBrains Rider
+.idea/
+.idea/*
+.idea/.gitignore
+
+# Other files
+*.log
+*.tlog
+*.csproj.user
+*.logg
